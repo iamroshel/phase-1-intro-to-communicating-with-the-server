@@ -1,4 +1,4 @@
-# Introduction to Communicating with the Server
+# Introduction to Communicating with the Server c
 
 ## Learning Goals
 
